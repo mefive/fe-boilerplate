@@ -1,0 +1,6 @@
+node_modules
+build
+config/local.config.js
+src/hooks
+src/lib
+src/public
